@@ -6,7 +6,7 @@ int main()
 {   
     
     cout << "!Hello World!\n";
-    return 0;  
+    return 1;  
 
 }
 

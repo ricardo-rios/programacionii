@@ -18,7 +18,7 @@ int main()
     cout << (double) 7000 * 7000 <<
            endl;
     cout << "Don’t forget to replace Jesse Liberty with your name...\n";
-    cout << "Jesse Liberty is a C++ programmer!\n";
+    cout << "Ricardo Rios is a C++ programmer!\n";
     return 0;
 
 }

@@ -38,6 +38,8 @@ int main()
     
    cout << "\nThanks for telling me.\n";  
 
-  
+   YankeesScore = NULL;
+
+   cout << "El valor de YankessScore" << YankeesScore;   
    return 0;
 }
