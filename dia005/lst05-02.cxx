@@ -22,11 +22,11 @@ int main()
 }
 
 
-float Convert(float TempFer)
+float Convert(float Fer)
 {
-     float TempCel;
-     TempCel = ((TempFer - 32) * 5) / 9;
+     float Cel;
+     Cel = ((Fer - 32) * 5) / 9;
      
-     return TempCel;
+     return Cel;
 }
 
