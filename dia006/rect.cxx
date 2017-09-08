@@ -38,6 +38,6 @@ int main()
       cout << "Upper Left X Coordinate:";
       cout << MyRectangle.GetUpperLeft().GetX() << endl;
 
-      return 0 
+      return 0; 
 
 }

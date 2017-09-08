@@ -44,18 +44,18 @@ class Rectangle
        void SetBottom (int bottom) { itsBottom = bottom; }
        void SetRight (int right) { itsRight = right; }   
 
-       int GetArea(); 
+       int GetArea() const; 
 
        
     private:
-       Point int itsUpperLeft;
-       Point int itsUpperRight;
-       Point int itsLowerLeft;
-       Point int itsLowerRight;
-       Point int itsTop;
-       Point int itsLeft;
-       Point int itsBottom;
-       Point int itsRight;
+       Point itsUpperLeft;
+       Point itsUpperRight;
+       Point itsLowerLeft;
+       Point itsLowerRight;
+       int itsTop;
+       int itsLeft;
+       int itsBottom;
+       int itsRight;
 
 };   
 
